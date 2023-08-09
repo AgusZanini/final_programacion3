@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Usuario/Desktop/finalprog3/DataStructures/ArbolBinario.h
+NodoArbol.h
+C:/Users/Usuario/Desktop/finalprog3/DataStructures/NodoArbol.h
+
+C:/Users/Usuario/Desktop/finalprog3/DataStructures/Lista.h
+nodo.h
+C:/Users/Usuario/Desktop/finalprog3/DataStructures/nodo.h
+
+C:/Users/Usuario/Desktop/finalprog3/DataStructures/NodoArbol.h
+
+C:/Users/Usuario/Desktop/finalprog3/DataStructures/nodo.h
+
+C:/Users/Usuario/Desktop/finalprog3/main1.cpp
+iostream
+-
+DataStructures/Lista.h
+C:/Users/Usuario/Desktop/finalprog3/DataStructures/Lista.h
+DataStructures/ArbolBinario.h
+C:/Users/Usuario/Desktop/finalprog3/DataStructures/ArbolBinario.h
+
